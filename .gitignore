@@ -1,2 +1,6 @@
 # gmail API credentials
-/credentials.json
+/src/credentials.json
+/src/token.json
+
+# node_modules
+/node_modules
